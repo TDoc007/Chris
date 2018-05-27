@@ -162,7 +162,8 @@ button.navbar-toggle{
 
 
 .parallax{
-  background-image:url('https://i.pinimg.com/originals/ad/d0/a0/add0a0e4ae4b9ee869c309471694521e.jpg');
+  background-image:url('../image/135.jpg');
+  /* background-image: url('https://goo.gl/images/wJk3aU'); */
   background-position:center;
   background-size:cover;
   min-height:450px;
@@ -287,7 +288,7 @@ background-color: rgba(39, 39, 40,0.6);
 
 
 .parallax-two{
-  background-image:url('http://nowbali.co.id/wp-content/uploads/2017/02/Wayang-1-1024x543.jpg');
+  background-image:url('../image/134.jpg');
   background-position:center;
   background-size:cover;
   min-height:100%;
@@ -628,4 +629,3 @@ background-color: rgba(39, 39, 40,0.6);
     border-radius: inherit;
   }
 }
-  
