@@ -162,7 +162,7 @@ button.navbar-toggle{
 
 
 .parallax{
-  background-image:url('../image/135.jpg');
+  background-image:url('../image/137.jpg');
   /* background-image: url('https://goo.gl/images/wJk3aU'); */
   background-position:center;
   background-size:cover;
@@ -172,7 +172,17 @@ button.navbar-toggle{
   background-attachment:fixed;
   font-family:Federo;
 }
-
+.parallax2{
+  background-image:url('../image/138.jpg');
+  /* background-image: url('https://goo.gl/images/wJk3aU'); */
+  background-position:center;
+  background-size:cover;
+  min-height:450px;
+  background-repeat:no-repeat;
+  position:relative;
+  background-attachment:fixed;
+  font-family:Federo;
+}
 .parallax .layer{
 background-color: rgba(39, 39, 40,0.6);
     width: 100%;
@@ -288,7 +298,7 @@ background-color: rgba(39, 39, 40,0.6);
 
 
 .parallax-two{
-  background-image:url('../image/134.jpg');
+  background-image:url('../image/140.jpg');
   background-position:center;
   background-size:cover;
   min-height:100%;
